@@ -1,4 +1,7 @@
 
+We are building an ADK agent based on the adk-sample repository. The first step is to take sample repo as is and copy it to working repo.
+
+The user should provide path to `adk-sample` local repo and  where they want to copy. After your copy it will look like this:
 
 ```
 blog-writer
@@ -9,7 +12,6 @@ blog-writer
 │   ├── agent_utils.py
 │   ├── agent.py
 │   ├── config.py
-│   ├── rag.py
 │   ├── sub_agents
 │   │   ├── __init__.py
 │   │   ├── blog_editor.py
