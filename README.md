@@ -25,6 +25,10 @@ Switch to local Ollama models via LiteLLM adapter in [`step3-prompt-litellm-demo
 
 Enable multi-agent turns in [`step4-prompt-restore-multiagent-handovers.md`](step4-prompt-restore-multiagent-handovers.md).
 
+5. **RAG**
+
+Implement local RAG [`step5-prompt-local-rag-integration.md`](step5-prompt-local-rag-integration.md)
+
 ## Demos
 
 Demos are available in the `demo` folder in the workshop repository.
